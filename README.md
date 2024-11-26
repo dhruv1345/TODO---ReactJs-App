@@ -1,4 +1,3 @@
-Here’s the formatted version of your content with proper markdown syntax and structure:
 
 ---
 
