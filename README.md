@@ -5,12 +5,12 @@
    git clone https://github.com/your-username/your-repo.git
 
 2. Navigate to the project directory:
-
-cd your-repo
+  ```bash
+  cd your-repo
 
 3. Run the setup script:
-
-./setup.sh
+   ```bash
+   ./setup.sh
 
     OR
 }
