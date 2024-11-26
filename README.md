@@ -1,3 +1,27 @@
+## Quick Start
+{
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+
+2. Navigate to the project directory:
+
+cd your-repo
+
+3. Run the setup script:
+
+./setup.sh
+
+    OR
+}
+
+1. After cloning, user can run:
+
+npm run setup
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
